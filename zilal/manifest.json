@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "book": {
+    "name": "في ظلال القرآن",
+    "author": "سيد قطب",
+    "source": [
+      "https://books.rafed.net/view/3878",
+      "https://books.rafed.net/view/3879",
+      "https://books.rafed.net/view/3880",
+      "https://books.rafed.net/view/3884",
+      "https://books.rafed.net/view/3885",
+      "https://books.rafed.net/view/3889"
+    ],
+    "edition": "دار الشروق (Rafed .doc export)",
+    "version": "2026-10-28",
+    "intro_mode": "separate"
+  },
+  "surahs": 114,
+  "segments": 329,
+  "files": {
+    "book": "zilal.json.gz",
+    "surah": "surahs/{n}.json"
+  },
+  "book_gz_bytes": 4734968,
+  "book_gz_sha256": "6dac1de61255519ee5480d2888fd2f392389fb88ce7f8fc8deee9f614313fd21"
+}
